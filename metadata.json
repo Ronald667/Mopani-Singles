@@ -1,0 +1,6 @@
+{
+  "name": "Mopani Singles",
+  "description": "Connect with verified singles in Mopani District municipalities (Giyani, Tzaneen, Phalaborwa, Letaba, Maruleng). Find love, chat, icebreakers, and AI matchmaking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
